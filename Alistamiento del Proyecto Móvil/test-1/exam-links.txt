@@ -1,0 +1,7 @@
+Exam-links
+
+Link de figma:https://www.figma.com/design/E44u1GC9U4siNHiVVTcntZ/Untitled?node-id=0-1&t=W9kS9mOJxnWX4qrs-1
+
+Link de trello:https://trello.com/b/0NBFu44z
+
+Link del Git:https://github.com/JhonCG-12/programacion-movil-2025-a-g2.git

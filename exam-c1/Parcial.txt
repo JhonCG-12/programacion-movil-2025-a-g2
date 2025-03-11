@@ -1,0 +1,3 @@
+Link de Figma:https://www.figma.com/design/LYIbwyxeD023X1Dx5gCIh5/Untitled?node-id=0-1&t=RZoHF1NlyuRpO1Xz-1
+
+Link de Git:https://github.com/JhonCG-12/programacion-movil-2025-a-g2.git
